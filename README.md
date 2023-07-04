@@ -2,8 +2,7 @@
 
 <p align="center">
 
-
- ![image](https://github.com/yadvi12/Learning-Java/assets/60046892/f91aa9f6-0083-48bc-99b9-7dea91cccb68)
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 
 </p> 
 
