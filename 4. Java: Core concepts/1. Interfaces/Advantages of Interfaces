@@ -1,0 +1,8 @@
+Advantages of using Interfaces -
+
+1. STANDARDIZATION
+Our application can be standardized. Restriction is applied on the classes which implements the interface (We must implement the unimplemented methods).
+Method names will also be standardized.
+
+2. POLYMORPHISM
+We can apply polymorphism.
